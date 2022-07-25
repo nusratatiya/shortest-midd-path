@@ -1,7 +1,7 @@
 # Shortest Midd Path
 Programming assignment for CSCI0302: Algorithms and Comlpexity at Middlebury College
 
-An implentation of the Bellman Ford's Algorithm to find the shortest route from two points. The default outputed path is a list of streets one must take to get from 75 Shannon Street (Computer Science Building) to a restaurant in Middlebury. 
+An implentation of the Bellman Ford's Algorithm to find the shortest route between two points. The default outputed path is a list of streets one must take to get from 75 Shannon Street (Computer Science Building) to a restaurant in Middlebury. 
 
 ## Description
 This algorithm uses dynamic programming to determine the shortest path between the two points stated in Main.java. By using a reverse adjaceny list, I was able to reduce the overall time complexity. 
